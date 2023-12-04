@@ -70,6 +70,9 @@ As you can see in the table we have to place headings, to add heading to table w
 
 As you can see the head tag is in black, but we can also use headers in the next rows not only in the first
 
+We use scope to specify  if  a cell is a header row or column
+
+
 ### adding some headers in each row
 <table>
     <tr>
